@@ -1,0 +1,13 @@
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager\obj\Debug\netstandard2.0\CommandManager.csprojAssemblyReference.cache
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager\obj\Debug\netstandard2.0\CommandManager.AssemblyInfoInputs.cache
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager\obj\Debug\netstandard2.0\CommandManager.AssemblyInfo.cs
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager\bin\Debug\netstandard2.0\CommandManager.deps.json
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager\bin\Debug\netstandard2.0\CommandManager.dll
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager\bin\Debug\netstandard2.0\CommandManager.pdb
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager\obj\Debug\netstandard2.0\CommandManager.dll
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager\obj\Debug\netstandard2.0\CommandManager.pdb
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager\obj\Debug\netstandard2.0\CommandManager.csproj.CopyComplete
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager\bin\Debug\netstandard2.0\CommandManager.Abstractions.dll
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager\bin\Debug\netstandard2.0\ConsoleX.dll
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager\bin\Debug\netstandard2.0\ConsoleX.pdb
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager\bin\Debug\netstandard2.0\CommandManager.Abstractions.pdb

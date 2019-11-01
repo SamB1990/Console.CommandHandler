@@ -1,0 +1,92 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "CommandManager/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2",
+          "Sys.ConsoleX": "1.0.0"
+        },
+        "runtime": {
+          "CommandManager.dll": {}
+        }
+      },
+      "IntegerHelper/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/IntegerHelper.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "StringHelper.Extension/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/StringHelper.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Sys.ConsoleX/1.0.0": {
+        "dependencies": {
+          "IntegerHelper": "1.0.0",
+          "StringHelper.Extension": "1.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/ConsoleX.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CommandManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IntegerHelper/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-s1M5a/MVX05DhuSnZrhgCzeM6bAH2LXqWK041GEGk6n66MM9lwi5ewaAUkQYJKvXngTLT8zUusMrXev0YYE2wg==",
+      "path": "integerhelper/1.0.0",
+      "hashPath": "integerhelper.1.0.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "StringHelper.Extension/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-02zzMHyPYPVJrV9JSl0YIgoqMYTN6S5+iFYP5g/HwFPPQcsTwQ2oPKUGQltBSgAJWdL+Pm9HL6xwYooqtF6l5g==",
+      "path": "stringhelper.extension/1.0.0",
+      "hashPath": "stringhelper.extension.1.0.0.nupkg.sha512"
+    },
+    "Sys.ConsoleX/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-poZAjWBNnuvPTggdpnePwVeB/FP7DRi177fbDLcSompFiy0MNU9AwSys43vXQtaCQNSGETIJvOms79M0rXhYiw==",
+      "path": "sys.consolex/1.0.0",
+      "hashPath": "sys.consolex.1.0.0.nupkg.sha512"
+    }
+  }
+}

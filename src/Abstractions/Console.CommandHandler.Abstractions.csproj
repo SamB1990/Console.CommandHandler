@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Console.CommandHandler</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Product>Console CommandHandler Abstractions</Product>
+    <Company>Sam Blundell Software</Company>
+    <Authors>Sam Blundell</Authors>
+    <Description>The console command handler was an idea i had to help me build more intuative console apps I have done this buy build and extendable console handler that will listen for and execute commands supplied in groups to the handler using my academic style project ObjectForest you can nest levels of command groups.</Description>
+    <Copyright>Copyright (c) 2019 Sam Blundell</Copyright>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/SamB1990/Console.CommandHandler</RepositoryUrl>
+    <RepositoryType>github</RepositoryType>
+    <PackageTags>Console Commands handler handling Execute command</PackageTags>
+    <NeutralLanguage>English (United Kingdom)</NeutralLanguage>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

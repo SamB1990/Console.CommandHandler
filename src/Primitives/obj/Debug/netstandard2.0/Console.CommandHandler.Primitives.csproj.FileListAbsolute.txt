@@ -1,0 +1,11 @@
+C:\Users\sam\source\repos\Console.CommandHandler\src\Primitives\bin\Debug\netstandard2.0\Console.CommandHandler.Primitives.deps.json
+C:\Users\sam\source\repos\Console.CommandHandler\src\Primitives\bin\Debug\netstandard2.0\Console.CommandHandler.Primitives.dll
+C:\Users\sam\source\repos\Console.CommandHandler\src\Primitives\bin\Debug\netstandard2.0\Console.CommandHandler.Primitives.pdb
+C:\Users\sam\source\repos\Console.CommandHandler\src\Primitives\bin\Debug\netstandard2.0\Console.CommandHandler.Abstractions.dll
+C:\Users\sam\source\repos\Console.CommandHandler\src\Primitives\bin\Debug\netstandard2.0\Console.CommandHandler.Abstractions.pdb
+C:\Users\sam\source\repos\Console.CommandHandler\src\Primitives\obj\Debug\netstandard2.0\Console.CommandHandler.Primitives.csprojAssemblyReference.cache
+C:\Users\sam\source\repos\Console.CommandHandler\src\Primitives\obj\Debug\netstandard2.0\Console.CommandHandler.Primitives.AssemblyInfoInputs.cache
+C:\Users\sam\source\repos\Console.CommandHandler\src\Primitives\obj\Debug\netstandard2.0\Console.CommandHandler.Primitives.AssemblyInfo.cs
+C:\Users\sam\source\repos\Console.CommandHandler\src\Primitives\obj\Debug\netstandard2.0\Console.CommandHandler.Primitives.csproj.CopyComplete
+C:\Users\sam\source\repos\Console.CommandHandler\src\Primitives\obj\Debug\netstandard2.0\Console.CommandHandler.Primitives.dll
+C:\Users\sam\source\repos\Console.CommandHandler\src\Primitives\obj\Debug\netstandard2.0\Console.CommandHandler.Primitives.pdb

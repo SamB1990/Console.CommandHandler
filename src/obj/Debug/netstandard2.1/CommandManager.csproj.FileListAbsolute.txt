@@ -1,0 +1,16 @@
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\CommandManager\obj\Debug\netstandard2.1\CommandManager.csprojAssemblyReference.cache
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\CommandManager\obj\Debug\netstandard2.1\CommandManager.AssemblyInfoInputs.cache
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\CommandManager\obj\Debug\netstandard2.1\CommandManager.AssemblyInfo.cs
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\CommandManager\bin\Debug\netstandard2.1\CommandManager.deps.json
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\CommandManager\bin\Debug\netstandard2.1\CommandManager.dll
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\CommandManager\bin\Debug\netstandard2.1\CommandManager.pdb
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\CommandManager\obj\Debug\netstandard2.1\CommandManager.dll
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\CommandManager\obj\Debug\netstandard2.1\CommandManager.pdb
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager\bin\Debug\netstandard2.1\CommandManager.deps.json
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager\bin\Debug\netstandard2.1\CommandManager.dll
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager\bin\Debug\netstandard2.1\CommandManager.pdb
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager\obj\Debug\netstandard2.1\CommandManager.csprojAssemblyReference.cache
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager\obj\Debug\netstandard2.1\CommandManager.AssemblyInfoInputs.cache
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager\obj\Debug\netstandard2.1\CommandManager.AssemblyInfo.cs
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager\obj\Debug\netstandard2.1\CommandManager.dll
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager\obj\Debug\netstandard2.1\CommandManager.pdb

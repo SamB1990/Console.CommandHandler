@@ -1,0 +1,7 @@
+C:\Users\sam\source\repos\Console.CommandHandler\src\Abstractions\bin\Release\netstandard2.0\Console.CommandHandler.Abstractions.deps.json
+C:\Users\sam\source\repos\Console.CommandHandler\src\Abstractions\bin\Release\netstandard2.0\Console.CommandHandler.Abstractions.dll
+C:\Users\sam\source\repos\Console.CommandHandler\src\Abstractions\bin\Release\netstandard2.0\Console.CommandHandler.Abstractions.pdb
+C:\Users\sam\source\repos\Console.CommandHandler\src\Abstractions\obj\Release\netstandard2.0\Console.CommandHandler.Abstractions.AssemblyInfoInputs.cache
+C:\Users\sam\source\repos\Console.CommandHandler\src\Abstractions\obj\Release\netstandard2.0\Console.CommandHandler.Abstractions.AssemblyInfo.cs
+C:\Users\sam\source\repos\Console.CommandHandler\src\Abstractions\obj\Release\netstandard2.0\Console.CommandHandler.Abstractions.dll
+C:\Users\sam\source\repos\Console.CommandHandler\src\Abstractions\obj\Release\netstandard2.0\Console.CommandHandler.Abstractions.pdb

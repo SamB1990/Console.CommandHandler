@@ -1,0 +1,8 @@
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager.Abstractions\bin\Debug\netstandard2.0\CommandManager.Abstractions.deps.json
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager.Abstractions\bin\Debug\netstandard2.0\CommandManager.Abstractions.dll
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager.Abstractions\bin\Debug\netstandard2.0\CommandManager.Abstractions.pdb
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager.Abstractions\obj\Debug\netstandard2.0\CommandManager.Abstractions.AssemblyInfoInputs.cache
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager.Abstractions\obj\Debug\netstandard2.0\CommandManager.Abstractions.AssemblyInfo.cs
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager.Abstractions\obj\Debug\netstandard2.0\CommandManager.Abstractions.dll
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager.Abstractions\obj\Debug\netstandard2.0\CommandManager.Abstractions.pdb
+C:\Users\sam\Source\Repos\SamB1990\MSSQL_CLR_Extractor\Src\CommandManager.Abstractions\obj\Debug\netstandard2.0\CommandManager.Abstractions.csprojAssemblyReference.cache

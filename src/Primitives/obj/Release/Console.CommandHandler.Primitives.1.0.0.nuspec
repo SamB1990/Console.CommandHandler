@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Console.CommandHandler.Primitives</id>
+    <version>1.0.0</version>
+    <authors>Sam Blundell</authors>
+    <owners>Sam Blundell</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <description>The console command handler was an idea i had to help me build more intuative console apps I have done this buy build and extendable console handler that will listen for and execute commands supplied in groups to the handler using my academic style project ObjectForest you can nest levels of command groups.</description>
+    <copyright>Copyright (c) 2019 Sam Blundell</copyright>
+    <tags>Console Commands handler handling Execute command</tags>
+    <repository type="github" url="https://github.com/SamB1990/Console.CommandHandler" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Console.CommandHandler.Abstractions" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\sam\source\repos\Console.CommandHandler\src\Primitives\bin\Release\netstandard2.0\Console.CommandHandler.Primitives.dll" target="lib\netstandard2.0\Console.CommandHandler.Primitives.dll" />
+    <file src="C:\Users\sam\source\repos\Console.CommandHandler\LICENSE" target="LICENSE" />
+  </files>
+</package>

@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Sam Blundell</Authors>
+    <Company>Sam Blundell Software</Company>
+    <Product>Console CommandHandler</Product>
+    <Description>The console command handler was an idea i had to help me build more intuative console apps I have done this buy build and extendable console handler that will listen for and execute commands supplied in groups to the handler using my academic style project ObjectForest you can nest levels of command groups.</Description>
+    <Copyright>Copyright (c) 2019 Sam Blundell</Copyright>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <RepositoryType>github</RepositoryType>
+    <RepositoryUrl>https://github.com/SamB1990/Console.CommandHandler</RepositoryUrl>
+    <PackageTags>Console Commands handler handling Execute command</PackageTags>
+    <NeutralLanguage>English (United Kingdom)</NeutralLanguage>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Abstractions\**" />
+    <Compile Remove="Primitives\**" />
+    <EmbeddedResource Remove="Abstractions\**" />
+    <EmbeddedResource Remove="Primitives\**" />
+    <None Remove="Abstractions\**" />
+    <None Remove="Primitives\**" />
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="ObjectForest" Version="1.0.0" />
+    <PackageReference Include="Sys.ConsoleX" Version="1.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="Abstractions\Console.CommandHandler.Abstractions.csproj" />
+    <ProjectReference Include="Primitives\Console.CommandHandler.Primitives.csproj" />
+  </ItemGroup>
+
+</Project>
